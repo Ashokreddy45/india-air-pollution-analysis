@@ -432,3 +432,10 @@ No license has been specified for this repository yet. Before publishing or invi
 <p align="center">
   <sub>Built with Python, data analysis, and a focus on reproducible environmental insights.</sub>
 </p>
+
+## 🚀 Live Dashboard
+
+Explore the interactive India Air Quality Explorer:
+
+**[Open the Live Dashboard](https://india-air-pollution-analysis-kzhtkcbnsaucbl5wsucqb.streamlit.app/)**
+
