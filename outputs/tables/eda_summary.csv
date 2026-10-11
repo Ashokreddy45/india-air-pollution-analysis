@@ -1,0 +1,12 @@
+Metric,Value
+Total_Rows,29531
+Total_Columns,21
+Unique_Cities,26
+Start_Date,2015-01-01 00:00:00
+End_Date,2020-07-01 00:00:00
+Available_AQI_Records,24850
+Missing_AQI_Records,4681
+Average_AQI,166.4635814889336
+Median_AQI,118.0
+Highest_AQI,2049.0
+Lowest_AQI,13.0

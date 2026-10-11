@@ -1,0 +1,17 @@
+,Missing_Count,Missing_Percent,Data_Type
+Xylene,18109,61.32,float64
+PM10,11140,37.72,float64
+NH3,10328,34.97,float64
+Toluene,8041,27.23,float64
+Benzene,5623,19.04,float64
+AQI,4681,15.85,float64
+AQI_Bucket,4681,15.85,str
+PM2.5,4598,15.57,float64
+NOx,4185,14.17,float64
+O3,4022,13.62,float64
+SO2,3854,13.05,float64
+NO2,3585,12.14,float64
+NO,3582,12.13,float64
+CO,2059,6.97,float64
+City,0,0.0,str
+Date,0,0.0,datetime64[us]
