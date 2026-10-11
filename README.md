@@ -437,5 +437,5 @@ No license has been specified for this repository yet. Before publishing or invi
 
 Explore the interactive India Air Quality Explorer:
 
-**[Open the Live Dashboard](https://india-air-pollution-analysis-kzhtkcbnsaucbl5wsucqb.streamlit.app/)**
+**[Open the Live Dashboard](https://india-air-pollution-analysis-kzhtkcbnsaucblj5wsucqb.streamlit.app)**
 
